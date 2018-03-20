@@ -1,0 +1,65 @@
+* {
+    padding: 2%;
+}
+
+/* tag */
+
+
+/* class */
+.purple {
+    margin: 1%;
+    width: 10.5%;
+    height: 60%;
+    display: inline-block;
+    background-color: purple;
+    border: 5px solid black;
+}
+
+
+/* id */
+#wrapper {
+    width: 950px;
+    height: 1000px;
+    background-color: darkgray;
+    padding: 10px;
+    margin: 0px auto;
+    border: 5px solid black;
+    display: inline-block
+
+}
+
+#redblock {
+    margin: 1%;
+    width: 42%;
+    height: 17%;
+    display: inline-block;
+    background-color: red;
+    border: 5px solid black;
+}
+
+#blueblock {
+    margin: 1%;
+    width: 91.5%;
+    height: 17%;
+    display: block;
+    background-color: blue;
+    border: 5px solid black;
+}
+
+#yellow {
+    margin: 1%;
+    width: 25.5%;
+    height: 17%;
+    display: inline-block;
+    background-color: yellow;
+    border: 5px solid black;
+}
+
+#green {
+    margin: 1%;
+    width: 91.5%;
+    height: 17%;
+    display: inline-block;
+    background-color: green;
+    border: 5px solid black;
+}
